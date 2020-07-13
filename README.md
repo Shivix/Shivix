@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-kunalraghav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-oborne-534301196/)](https://www.linkedin.com/in/mark-oborne-534301196/)
+[![Linkedin Badge](https://img.shields.io/badge/-Shivix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-oborne-534301196/)](https://www.linkedin.com/in/mark-oborne-534301196/)
 
 - 🔭 I’m currently working on ... A Matrix data structure library
 
