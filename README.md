@@ -10,8 +10,8 @@ class aboutMe{
     
     bool isLookingForWork = true;
     
-    std::string languages = "C++, Python, Bash, Lua, MySQL.";
-    std::string tools = "Git, GCC, Clang-tidy, Boost.test, wxWidgets, OpenCV";
+    std::string languages = "C++, Python, Bash, Lua, MySQL";
+    std::string tools = "Git, GCC, Clang-tidy, CMake, Boost.test, wxWidgets, OpenCV";
     std::string getSkills(){
         return languages + tools;
     }
