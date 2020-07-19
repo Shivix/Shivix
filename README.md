@@ -6,13 +6,13 @@
 
 ```cpp
 class aboutMe{
-    std::string name = "Mark";
+    const std::string name = "Mark";
     
     bool isLookingForWork = true;
     
     std::string languages = "C++, Python, Bash, Lua, MySQL";
     std::string tools = "Git, GCC, Clang-tidy, CMake, Boost.test, wxWidgets, OpenCV";
-    std::string getSkills(){
+    std::string getSkills() const noexcept{
         return languages + tools;
     }
 };
