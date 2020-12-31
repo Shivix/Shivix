@@ -6,14 +6,15 @@
 
 ```cpp
 class aboutMe{
-    const std::string name = "Mark";
+    const std::string_view name{"Mark"};
     
-    bool isLookingForWork = true;
+    bool isLookingForWork{true};
     
-    std::string languages = "C++, Python, Bash, Lua, MySQL";
-    std::string tools = "Git, GCC, Clang-tidy, CMake, Boost.test, wxWidgets, OpenCV, Vulkan";
-    std::string getSkills() const noexcept{
+    std::string languages{"C++, Rust, Bash, Python, Lua, MySQL"};
+    std::string tools{"Git, GCC, Clang-tidy, CMake, Boost.test, wxWidgets, OpenCV, Vulkan, SFML, ASIO, Berkeley sockets"};
+    [[nodiscard]] std::string getSkills() const noexcept{
         return languages + tools;
     }
+    const std::string_view IDEs{CLion, Neovim};
 };
 ```
