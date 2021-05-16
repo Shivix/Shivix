@@ -10,7 +10,7 @@ class aboutMe{
     
     bool isLookingForWork{true};
     
-    std::string languages{"C++, Rust, Bash, Python, Lua, MySQL"};
+    std::string languages{"C++, Rust, Bash, Lua, Python"};
     std::string tools{"Git, GCC, Clang-tidy, CMake, Boost.test, wxWidgets, OpenCV, Vulkan, SFML, ASIO, Berkeley sockets"};
     [[nodiscard]] std::string getSkills() const noexcept{
         return languages + tools;
