@@ -1,18 +1,17 @@
-### Welcome to my GitHub
+### Shivix
+Software Engineer for [Reactive Markets](https://github.com/reactivemarkets)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Shivix-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mark-oborne-534301196/)](https://www.linkedin.com/in/mark-oborne-534301196/)
+💚 [Neovim](https://github.com/neovim/neovim) 💙
 
-- 🔭 I’m currently working on [my own version of the STL](https://github.com/Shivix/Shivix-Standard-Library)
+#### Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivix&repo=prefix&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
-```cpp
-class AboutMe{
-    const std::string_view name{"Mark"};
-    
-    std::string languages{"C++, Rust, Bash, Lua, Python"};
-    std::string tools{"Git, GCC, Clang-tidy, CMake, Boost.test, wxWidgets, OpenCV, Vulkan, SFML, ASIO, Berkeley sockets"};
-    [[nodiscard]] std::string get_skills() const noexcept{
-        return languages + tools;
-    }
-    const std::string_view ides{"CLion, Neovim"};
-};
-```
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivix&repo=shivlib&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+#### configs and scripts
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivix&repo=configs&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivix&repo=scripts&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivix&show_icons=true&theme=gruvbox&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+
