@@ -13,5 +13,5 @@ Software Engineer for [Reactive Markets](https://github.com/reactivemarkets)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Shivix&repo=scripts&show_icons=true&theme=gruvbox)](https://github.com/Shivix/scripts)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivix&show_icons=true&theme=gruvbox&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivix&show_icons=true&theme=gruvbox&langs_count=4)](https://github.com/anuraghazra/github-readme-stats)
 
