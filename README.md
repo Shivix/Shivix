@@ -8,4 +8,4 @@ Nvim is not an operating system; instead it should be composed with other
 tools or hosted as a component.
 ```
 
-💚 [Neovim](https://github.com/neovim/neovim) 💙
+🧡 [Kakoune](https://github.com/mawww/kakoune) 💚
